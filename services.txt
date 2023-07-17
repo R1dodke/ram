@@ -1,10 +1,1 @@
-All types Help.
-Form Related.
-Any Issue.
-
-Please keep in descipline.
-
-
-Thankyou :)
-
-add one more thing
+Git is a distributed version control system that enable software development teams to have multiple local copies of the projects codebase independent of each other.
